@@ -5,6 +5,8 @@ In the analysis of our data for the Philippines as of June 9, 2020, we can see t
 
 Another interesting discovery is the observation of Spain. Observing the data, we see that the reports of confirmed, recovered, deaths, and active cases have reached a peak, and the number of active cases have already started to decrease. Not having read any information about Spain, I can infer that Spain is doing their best in their efforts to containing the virus.
 
+Adding to my analysis as of June 16, 2020, we can see the changes in the rate of increase for the United States confirmed cases to much much higher than when COVID-19 had first started to spread widely across the US.
+
 Here is the link for the uploaded web application:
 
 https://jameshizon.shinyapps.io/final_project/?_ga=2.63372518.813029001.1591649978-477903587.1591649978
