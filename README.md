@@ -13,4 +13,4 @@ https://jameshizon.shinyapps.io/final_project/?_ga=2.63372518.813029001.15916499
 
 As an update in August, it seems that the link above may not be working. However, when testing my code, I am still able to receive an RShiny web application.
 
-![alt text](http://url/to/home/james/Pictures/Screenshot from 2020-08-21 10-52-10.png)
+file:///home/james/Pictures/Screenshot%20from%202020-08-21%2010-52-10.png
