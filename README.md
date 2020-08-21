@@ -11,6 +11,7 @@ Here is the link for the uploaded web application:
 
 https://jameshizon.shinyapps.io/final_project/?_ga=2.63372518.813029001.1591649978-477903587.1591649978
 
-As an update in August, it seems that the link above may not be working. However, when testing my code, I am still able to receive an RShiny web application.
+As an update in August, it seems that the link above may not be working. However, when testing my code, I am still able to receive an RShiny web application. The following is a link to the screenshot, to see the RShiny app at work. As we can see, the API is still working and up to date.
 
-file:///home/james/Pictures/Screenshot%20from%202020-08-21%2010-52-10.png
+Screenshot Link:
+https://github.com/JamesHizon/Covid19_Web_Application/issues/2#issue-683722968
